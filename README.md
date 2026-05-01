@@ -75,5 +75,5 @@ This project was built to showcase practical **Data Analytics skills using Excel
 
 ## 👨‍💻 Author
 Name : Sufiyan Syed
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/sufiyan7842
 ## ⭐ If you found this project useful, give it a star!
