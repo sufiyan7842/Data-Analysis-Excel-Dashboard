@@ -76,7 +76,8 @@ This project was built to showcase practical **Data Analytics skills using Excel
 ## Dashboard
 <img width="1351" height="664" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/627fb404-17df-465a-89ee-efa91fcce10c" />
 
-<img width="1917" height="907" alt="Screenshot (309)" src="https://github.com/user-attachments/assets/59e88811-46d3-42a7-8481-991aea676a11" />
+<img width="1091" height="638" alt="Screenshot (309)" src="https://github.com/user-attachments/assets/360e2cde-acc7-470e-abdc-5856097a4abf" />
+
 
 
 ## 👨‍💻 Author
