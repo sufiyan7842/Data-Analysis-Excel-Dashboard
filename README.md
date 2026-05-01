@@ -73,7 +73,12 @@ Used for tracking individual productivity.
 ## 🎯 Purpose of Project
 This project was built to showcase practical **Data Analytics skills using Excel** and demonstrate the ability to turn raw business data into actionable insights for decision-making.
 
+## Dashboard
+<img width="1681" height="776" alt="Screenshot (308)" src="https://github.com/user-attachments/assets/50f2815e-1bba-4ac7-adfe-98ccc8068992" />
+
+<img width="1917" height="907" alt="Screenshot (309)" src="https://github.com/user-attachments/assets/59e88811-46d3-42a7-8481-991aea676a11" />
+
+
 ## 👨‍💻 Author
 Name : Sufiyan Syed
 GitHub: https://github.com/sufiyan7842
-## ⭐ If you found this project useful, give it a star!
